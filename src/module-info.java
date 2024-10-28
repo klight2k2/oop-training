@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author klight
+ *
+ */
+module bookshop {
+}
